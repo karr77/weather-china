@@ -1,0 +1,27 @@
+{
+  "author": "SkillHub",
+  "author_icon": "https://static.pc.yyb.qq.com/wupload2skill-author-icons/1774637143312_skillhub.png",
+  "description": "中国天气预报查询 - 基于中国天气网(weather.com.cn)获取7天天气预报和生活指数数据。纯 Python 实现，无需 API Key。",
+  "detail_describe": "查询指定城市7天天气预报\n查看感冒、穿衣、紫外线等生活指数\n判断是否需要带伞或加衣服",
+  "display_description": "帮你看国内城市天气和出行穿衣建议",
+  "display_name": "weather-china",
+  "download_count": 22664,
+  "download_url": "https://static.pc.yyb.qq.com/wupload2skill-packages/1774637138130_weather-china.zip",
+  "icon": "https://static.marvis.qq.com/wupload/ra6ol4Qr.webp",
+  "id": 58,
+  "is_downloaded": false,
+  "last_modified_time": "2026-05-29 23:13:27",
+  "md5": "44c3bf3de7535cbc9918995cadfb7e95",
+  "name": "weather-china",
+  "scope": [
+    "browser",
+    "main"
+  ],
+  "type": "生活日常",
+  "use_cases": [
+    "帮我查一下南京这周会不会下雨带不带伞。",
+    "看看成都明天的天气穿什么衣服合适。",
+    "帮我查一下北京未来三天的紫外线指数。"
+  ],
+  "version": "1.0.7"
+}
